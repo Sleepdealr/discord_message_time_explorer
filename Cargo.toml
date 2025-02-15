@@ -1,0 +1,10 @@
+[package]
+name = "discord_message_time_explorer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.39"
+regex = "1.11.1"
+walkdir = "2.5.0"
+plotters = "0.3.7"
